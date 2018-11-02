@@ -1,0 +1,10 @@
+make_slideshow.sh
+
+A simple script to generate a http slideshow for the current directory. 
+
+Usage:
+  cd into the directory you want and 
+
+  /path/to/make_slideshow.sh [file_ending=png] [title=pix] 
+
+This will clobber any index.html that might be there, so be careful! 
