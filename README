@@ -7,4 +7,4 @@ Usage:
 
   /path/to/make_slideshow.sh [file_ending=png] [title=pix] 
 
-This will clobber any index.html that might be there, so be careful! 
+This command will clobber any index.html that might be there, so be careful! 
